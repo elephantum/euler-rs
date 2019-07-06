@@ -1,0 +1,9 @@
+[package]
+name = "problem_003"
+version = "0.1.0"
+authors = ["Andrey Tatarinov <a@tatarinov.co>"]
+edition = "2018"
+
+[dependencies]
+
+primes = { path = "../primes" }
