@@ -1,1 +1,1 @@
-# euler-rs
+# Learn Rust by solving Project Euler
